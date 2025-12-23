@@ -1,0 +1,114 @@
+{
+  "pays": "Montenegro",
+  "drapeau": "🇲🇪",
+  "symbole": "🏞️",
+  "titre": "Évasion Relaxante au Monténégro",
+  "budget_total": "710 €",
+  "duree": "4 jours",
+  "temps_vol": "5h40 (depuis Paris, france)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Charme de Kotor",
+      "legende": "Après votre vol, laissez-vous transporter par la beauté des Bouches de Kotor. Installez-vous confortablement et débutez votre exploration par une douce promenade dans la vieille ville, classée à l'UNESCO, pour une première immersion relaxante.",
+      "lieu": "Kotor",
+      "activites": [
+        "<strong>🛬 Arrivée à l'aéroport de Tivat (TIV)</strong>: Transfert vers Kotor, une courte et pittoresque route le long de la baie.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez vos quartiers dans un charmant hébergement au cœur ou à proximité de la vieille ville de Kotor.",
+        "<strong>🚶‍♀️ Balade relaxante dans la Vieille Ville de Kotor</strong>: Flânez dans les ruelles pavées, admirez l'architecture médiévale et imprégnez-vous de l'atmosphère sereine de ce site classé."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Transfert",
+          "texte": "Le trajet de l'aéroport de Tivat à Kotor dure environ 15-20 minutes en taxi ou avec une voiture de location."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "⛵",
+      "titre": "Trésors des Bouches de Kotor",
+      "legende": "Découvrez les joyaux cachés des Bouches de Kotor lors d'une journée dédiée à la sérénité. Une croisière paisible vous mènera vers des îles emblématiques et des villages pittoresques, offrant des panoramas inoubliables et des moments de pure détente.",
+      "lieu": "Kotor & Perast",
+      "activites": [
+        "<strong>🚤 Croisière dans les Bouches de Kotor</strong>: Embarquez pour une excursion en bateau, naviguant sur les eaux calmes de la baie, entourée de montagnes majestueuses.",
+        "<strong>⛪ Visite de Notre-Dame du Rocher</strong>: Explorez cette île artificielle et son église baroque, un lieu empreint de légendes et de beauté.",
+        "<strong>🚶‍♂️ Promenade à Perast</strong>: Découvrez ce village baroque, ses palais vénitiens et ses deux îles emblématiques, idéal pour une balade douce et un café au bord de l'eau."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "☀️",
+          "titre": "Conseil",
+          "texte": "N'oubliez pas votre crème solaire et un chapeau pour la croisière, même si le temps est nuageux."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏖️",
+      "titre": "Riviera de Budva et Charme de Sveti Stefan",
+      "legende": "Partez à la découverte de la Riviera de Budva, où plages de sable et histoire se rencontrent. Profitez d'une balade relaxante sur le littoral, explorez la vieille ville animée de Budva et admirez la vue imprenable sur l'île de Sveti Stefan, un véritable havre de paix.",
+      "lieu": "Budva & Sveti Stefan",
+      "activites": [
+        "<strong>🚗 Route panoramique vers Budva</strong>: Profitez des paysages côtiers lors du trajet vers la Riviera de Budva, une expérience visuelle apaisante.",
+        "<strong>🚶‍♀️ Exploration de la Vieille Ville de Budva</strong>: Flânez dans les ruelles fortifiées de Budva, découvrez ses églises et ses places charmantes, puis détendez-vous sur une de ses plages urbaines.",
+        "<strong>📸 Vue sur Sveti Stefan</strong>: Admirez l'emblématique île-hôtel de Sveti Stefan depuis un point de vue élevé, un spectacle photogénique et relaxant."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🍽️",
+          "titre": "Pause gourmande",
+          "texte": "La vieille ville de Budva regorge de restaurants offrant des spécialités locales avec vue sur la mer."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers instants et Départ",
+      "legende": "Profitez d'une dernière matinée paisible pour savourer l'ambiance monténégrine. Que ce soit pour un dernier café avec vue ou un achat de souvenir, ces moments clôtureront en douceur votre séjour avant de prendre la route vers l'aéroport pour votre vol retour.",
+      "lieu": "Kotor & Tivat",
+      "activites": [
+        "<strong>☕ Matinée libre à Kotor</strong>: Profitez d'un petit-déjeuner tranquille, faites quelques emplettes de souvenirs ou revisitez un lieu coup de cœur.",
+        "<strong>🚗 Transfert vers l'aéroport de Tivat (TIV)</strong>: Organisez votre retour vers l'aéroport en fonction de l'heure de votre vol.",
+        "<strong>🛫 Vol retour vers Paris</strong>: Emportez avec vous les souvenirs apaisants de votre escapade monténégrine."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Les marchés locaux de Kotor proposent de l'huile d'olive, du miel et des produits artisanaux parfaits pour des souvenirs."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 219 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 105 €/pers (location voiture + essence)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "Environ 200 €/pers (4 jours, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 135 €/pers (3 nuits en hôtel 3* ou appartement)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 50 €/pers (croisière, entrées)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Juin et Septembre à Octobre", "symbole": "☀️" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie officielle est l'Euro (€).", "symbole": "💶" },
+    { "titre": "Le permis de conduire français est suffisant pour louer une voiture. La conduite se fait à droite.", "symbole": "🚗" },
+    { "titre": "Les températures sont douces au printemps et en automne (18-25°C). Prévoir des vêtements légers et une petite veste pour le soir.", "symbole": "🌡️" },
+    { "titre": "Le Monténégrin est la langue officielle, mais l'anglais est couramment parlé dans les zones touristiques.", "symbole": "🗣️" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-TIV/2026-05-15/2026-05-18", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Monténégro", "url": "https://www.montenegro.travel/fr", "symbole": "📘" },
+    { "legende": "Location de voiture", "titre": "Rentalcars Monténégro", "url": "https://www.rentalcars.com/fr/country/me/", "symbole": "🚗" },
+    { "legende": "Météo", "titre": "Météo Monténégro", "url": "https://www.accuweather.com/fr/me/montenegro-weather", "symbole": "🌤️" }
+  ]
+}
